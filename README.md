@@ -1,3 +1,3 @@
-Chat vue.js & node.js
-Demo https://chat-vue-by-pavel.herokuapp.com/
+Chat vue.js & node.js 
 
+Demo https://chat-vue-by-pavel.herokuapp.com
